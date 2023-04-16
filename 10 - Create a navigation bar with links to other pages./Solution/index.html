@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>10 - Create a navigation bar with links to other pages.</title>
+    <style>
+      /* Create a navigation bar with links to other pages */
+      nav {
+        background-color: #333; /* Set the background color of the navigation bar */
+        overflow: hidden; /* Hide any content that overflows the navigation bar */
+      }
+      nav ul {
+        list-style-type: none; /* Remove the bullet points from the list */
+        margin: 0; /* Remove any margin from the list */
+        padding: 0; /* Remove any padding from the list */
+        overflow: hidden; /* Hide any content that overflows the list */
+        display: flex; /* Display the list items horizontally using flexbox */
+      }
+      nav li {
+        float: left; /* Float the list items to the left to create the horizontal layout */
+      }
+      nav li a {
+        display: block; /* Display the links as blocks to fill the list items */
+        color: white; /* Set the color of the links */
+        text-align: center; /* Center the text within the links */
+        padding: 14px 16px; /* Add padding to the links */
+        text-decoration: none; /* Remove the underline from the links */
+      }
+      nav li a:hover {
+        background-color: #111; /* Set the background color of the links when hovered over */
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Welcome to my webpage</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </body>
+</html>
