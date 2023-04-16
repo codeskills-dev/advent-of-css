@@ -25,8 +25,128 @@ Don't forget to give this repo a star ⭐️
 
 <ol>
   <li>
-  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/01%20-%20Basic%20HTML%20Page">
-    Create a basic HTML page with a heading and a paragraph
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/01%20-%20Create%20a%20webpage%20with%20a%20background%20color%20of%20your%20choice">
+    Create a webpage with a background color of your choice.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Add a border around an element on the page.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Change the font of a paragraph to a different font.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Center an element horizontally on the page.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Add padding to an element.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Change the font size of a paragraph.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Change the color of text on the page.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Add a hover effect to a button.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Add a shadow to an element.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Create a navigation bar with links to other pages.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Add a background image to the page.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Add a gradient background to an element.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Create a responsive webpage that adjusts to different screen sizes.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Add a transition effect to an element.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Create a dropdown menu in the navigation bar.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Add a sticky header to the page.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Add a tooltip to an element.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Create a progress bar.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Create a table with rows and columns.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Create a form with input fields and a submit button.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Create a responsive grid layout.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Add a transform effect to an element.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Create a flexbox layout.
+  </a>
+  </li>
+  <li>
+  <a href="">
+Add a filter effect to an image.
+  </a>
+  </li>
+  <li>
+  <a href="">
+   Add a parallax effect to the page.
   </a>
   </li>
 </ol>
