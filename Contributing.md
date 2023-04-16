@@ -13,7 +13,7 @@ Thank you for considering contributing to our repository! We welcome contributio
 ## Guidelines for Contributions
 
 - Please make sure your contributions align with the goals of the repository.
-- Keep your changes focused on the HTML challenges and exercises.
+- Keep your changes focused on the CSS challenges and exercises.
 - If you're adding new challenges, please make sure they're appropriate for beginners.
 - Add all new challenges to the [Community Folder](https://github.com/codeskills-dev/advent-of-css/tree/main/Community-challenges) and follow the template structure that is provided there.
 - Be respectful and welcoming in your communication with other contributors.
