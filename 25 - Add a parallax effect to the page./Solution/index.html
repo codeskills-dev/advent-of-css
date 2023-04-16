@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>25 - Add a parallax effect to the page.</title>
+    <style>
+      /* Reset page default styles */
+      * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+      }
+
+      /* This code creates a parallax effect */
+      .parallax {
+        /* Set the height of the container to the full height of the viewport */
+        height: 100vh;
+        /* Set the background image and position it */
+        background-image: url("../bg.jpg");
+        background-position: center;
+        /* Set the background-attachment property to fixed */
+        background-attachment: fixed;
+        /* Set the background size to cover the whole container */
+        background-size: cover;
+      }
+      .section {
+        height: 100vh;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="parallax"></div>
+    <div class="section">
+      <div class="content">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus autem
+        quas iure nisi eos ea vel, inventore animi beatae maxime natus nulla rem
+        molestias voluptate, aliquid fuga at et recusandae!
+      </div>
+    </div>
+  </body>
+</html>
