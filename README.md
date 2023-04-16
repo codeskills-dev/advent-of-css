@@ -3,6 +3,8 @@
 Welcome to "Advent of CSS" a repository with CSS challenges for beginners!
 <br><br>
 
+![advent-of-css](https://socialify.git.ci/codeskills-dev/advent-of-css/image?language=1&name=1&owner=1&stargazers=1&theme=Auto)
+
 ## Overview
 
 This repository contains 25 CSS challenges that are designed to help beginners improve their CSS skills. Each challenge comes with a description, some basic HTML code to get started, and any instructions or hints that the learner might need.
