@@ -12,8 +12,8 @@ This repository contains 25 CSS challenges that are designed to help beginners i
 ## How to Use
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/codeskills-dev/30-days-of-html/archive/v1.0.0.zip)
+<!--
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/codeskills-dev/30-days-of-html/archive/v1.0.0.zip) -->
 
 <!-- END LATEST DOWNLOAD BUTTON -->
 
