@@ -30,122 +30,122 @@ Don't forget to give this repo a star ⭐️
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/02%20-%20Add%20a%20border%20around%20an%20element%20on%20the%20page">
    Add a border around an element on the page.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/03%20-%20Change%20the%20font%20of%20a%20paragraph%20to%20a%20different%20font">
    Change the font of a paragraph to a different font.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/04%20-%20Center%20an%20element%20horizontally%20on%20the%20page">
    Center an element horizontally on the page.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/05%20-%20Add%20padding%20to%20an%20element.">
    Add padding to an element.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/06%20-%20Change%20the%20font%20size%20of%20a%20paragraph.">
    Change the font size of a paragraph.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/07%20-%20Change%20the%20color%20of%20text%20on%20the%20page.%20">
    Change the color of text on the page.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/08%20-%20Add%20a%20hover%20effect%20to%20a%20button.">
    Add a hover effect to a button.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/09%20-%20Add%20a%20shadow%20to%20an%20element.">
    Add a shadow to an element.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/10%20-%20Create%20a%20navigation%20bar%20with%20links%20to%20other%20pages.">
    Create a navigation bar with links to other pages.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/11%20-%20Add%20a%20background%20image%20to%20the%20page.">
    Add a background image to the page.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/12%20-%20Add%20a%20gradient%20background%20to%20an%20element">
    Add a gradient background to an element.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/13%20-%20Create%20a%20responsive%20webpage%20that%20adjusts%20to%20different%20screen%20sizes.">
    Create a responsive webpage that adjusts to different screen sizes.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/14%20-%20Add%20a%20transition%20effect%20to%20an%20element.">
    Add a transition effect to an element.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/15%20-%20Create%20a%20dropdown%20menu%20in%20the%20navigation%20bar.">
    Create a dropdown menu in the navigation bar.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/16%20-%20Add%20a%20sticky%20header%20to%20the%20page.">
    Add a sticky header to the page.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/17%20-%20Add%20a%20tooltip%20to%20an%20element.">
    Add a tooltip to an element.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/18%20-%20Create%20a%20progress%20bar.">
    Create a progress bar.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/19%20-%20Create%20a%20table%20with%20rows%20and%20columns.">
    Create a table with rows and columns.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/20%20-%20Create%20a%20form%20with%20input%20fields%20and%20a%20submit%20button.">
    Create a form with input fields and a submit button.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/21%20-%20Create%20a%20responsive%20grid%20layout.">
    Create a responsive grid layout.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/22%20-%20Add%20a%20transform%20effect%20to%20an%20element.">
    Add a transform effect to an element.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/23%20-%20Create%20a%20flexbox%20layout.">
    Create a flexbox layout.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/24%20-%20Add%20a%20filter%20effect%20to%20an%20image.">
 Add a filter effect to an image.
   </a>
   </li>
   <li>
-  <a href="">
+  <a href="https://github.com/codeskills-dev/advent-of-css/tree/main/25%20-%20Add%20a%20parallax%20effect%20to%20the%20page.">
    Add a parallax effect to the page.
   </a>
   </li>
