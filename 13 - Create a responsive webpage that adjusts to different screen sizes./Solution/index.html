@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      13 - Create a responsive webpage that adjusts to different screen sizes.
+    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Set the viewport to the width of the device and initial zoom level -->
+    <style>
+      /* Set the font size to 16px for desktop devices */
+      body {
+        font-size: 16px;
+      }
+
+      /* Use a fluid layout that adjusts to the screen size of the device */
+      .container {
+        width: 90%; /* Set the width of the container to 90% of the viewport width */
+        max-width: 1200px; /* Set the maximum width of the container to 1200px */
+        margin: 0 auto; /* Center the container horizontally */
+      }
+
+      /* Use media queries to adjust the layout and styles for different devices */
+      @media (max-width: 768px) {
+        /* Set the font size to 14px for mobile devices */
+        body {
+          font-size: 14px;
+        }
+
+        /* Adjust the layout of the container for mobile devices */
+        .container {
+          width: 100%; /* Set the width of the container to 100% of the viewport width */
+          padding: 0 20px; /* Add padding to the sides of the container */
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Welcome to my responsive webpage</h1>
+      <p>This webpage adjusts to different screen sizes.</p>
+    </div>
+  </body>
+</html>
